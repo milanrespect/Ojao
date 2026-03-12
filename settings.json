@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KelavaTiCeva.aternos.me.aternos.me",
+    "ip": "KelavaTiCeva.aternos.me",
     "port": 19076,
     "version": "",
     "try-creative": false
